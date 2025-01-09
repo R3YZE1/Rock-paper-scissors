@@ -1,2 +1,3 @@
 # Rock-paper-scissors
-Janken pon!!!
+Rock paper scissors using mediapipe, which recognises your hand gestures. 
+Development in progress...
